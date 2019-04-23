@@ -7,7 +7,7 @@ This project aims to implement a heuristic TSP solver.
 <pre><code>.
 ├── instances/: TSP instances (TSPLib format)
 ├── setting.propertis: the configuration file(a configuration file used to specify the instance directory, the instance name, and the known optimal solution cost)
-└── src/main/java/
+└── src/main/java/: source code
     ├── TSP
     │   ├── algorithm/: main algorithm of the TSP solver
     │   │   ├── Algorithm.java
